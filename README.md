@@ -16,3 +16,5 @@ able to choose from
 - create a UI to display and potentially also make the UI dependent on the selected thematic
 
 - add a random word generator for the words to be inserted
+
+# work in progress
