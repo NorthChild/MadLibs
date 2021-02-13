@@ -2,7 +2,7 @@
 a collection of changable MadLib stories 
 this is the skeleton of the app, at the moment i'm concentrating on giving the option to choose the genre of the story.
 
-# its still ongoing and will update as i go forward
+# its still on-going and will update as i go forward
 
 # NEXT TO COME
 
