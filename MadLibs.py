@@ -87,7 +87,7 @@ if story_choice == 'horror':
                    f'realised the {profession} hadn\'t been protecting {him}. They had been protecting their {young}.'
 
 
-                ### part 2 ###
+                                                             ### part 2 ###
 
 # TO ADD
 ######################################################################################################################################################################
